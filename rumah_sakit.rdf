@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:rs="http://www.projectsemweb.fake.com/namespace#">
+    
+<!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // MEDAN
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+    
+<!-- 1 -->
+<rs:rumahsakit rdf:about="https://www.rsmurniteguh.com/">
+    <rs:nama>Murni Teguh Memorial Hospital</rs:nama>
+    <rs:lokasi>Jalan Jawa No. 2, Gg. Buntu, Kec. Medan Timur, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Jalan, Laboratorium, Radiotherapy, Radiology, Pusat Jantung dan Vaskular, Endoscopy, Rehabilitasi Medik, Layanan Umum, Intensive Care(ICU/ ICCU/ PICU/ NICU), Ambulans, Fasilitas Umum </rs:fasilitas>
+    <rs:kodepos>20231</rs:kodepos>
+    <rs:phone>+62 61 8050 1 888</rs:phone>
+    <rs:gambar rdf:resource="https://www.rsmurniteguh.com/Images/Slider/Banner_Gedung_Murni_Teguh.jpg"/>
+</rs:rumahsakit>
+<!-- 2 -->  
+<rs:rumahsakit rdf:about="https://www.columbiaasia.com/indonesia/hospitals/medan/contact-us">
+    <rs:nama>Columbia Asia</rs:nama>
+    <rs:lokasi>Jalan Imam Bonjol No. 6, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Endoscopy, Laboratory, Nursing Unit, Multidiscipline Specialist Clinic, Pediatric, Physiotherapy, Surgery, Radiology dan Imaging, Ambulans, Cafe Columbia. </rs:fasilitas>
+    <rs:kodepos>20112</rs:kodepos>
+    <rs:phone>+6261 4566 368</rs:phone>
+    <rs:gambar rdf:resource="https://www.columbiaasia.com/indonesia/sites/default/files/hospital/hospitals-medan-contact.jpg"/>
+</rs:rumahsakit>
+<!-- 3 -->
+<rs:rumahsakit rdf:about="https://royalprima.com/">
+    <rs:nama>Royal Prima</rs:nama>
+    <rs:lokasi>Jalan Ayahanda No 68A, Sei Putih Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Rawat Inap, Fisioterapy, IGD, Endoskopi, Kamar Bersalin, NICU, ICU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20118</rs:kodepos>
+    <rs:phone>(061) 888 13182</rs:phone>
+    <rs:gambar rdf:resource="https://d2ih5qgee2kfcl.cloudfront.net/local/5dd37d18ced16.jpg"/>
+</rs:rumahsakit>
+<!-- 4 -->
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-islam-malahayati-medan">
+    <rs:nama>Islamic Hospital Malahayati</rs:nama>
+    <rs:lokasi>Jalan Pangeran Diponegoro No.2 - 4, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Laboratorium, Instalasi Rawat Jalan, IGD, Farmasi, Instalasi Bersalin, NICU, PICU, UGD, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20112</rs:kodepos>
+    <rs:phone> +62 61 4518766</rs:phone>
+    <rs:gambar rdf:resource="https://d1ojs48v3n42tp.cloudfront.net/provider_location_list/858607_13-1-2020_14-52-43.jpg"/>
+</rs:rumahsakit>
+<!-- 5 -->
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-universitas-sumatera-utara-medan">
+    <rs:nama>RS Universitas Sumatera Utara</rs:nama>
+    <rs:lokasi>Jalan Dr. Mansyur No.66, Merdeka, Kec. Medan Baru, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Laboratorium, Instalasi Rawat Jalan, Farmasi, Instalasi Bersalin, Instalasi Bedah, UGD, Medical Check Up, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20154</rs:kodepos>
+    <rs:phone>+62 61 8218928</rs:phone>
+    <rs:gambar rdf:resource="https://cdn-2.tstatic.net/medan/foto/bank/images/rs-usu_20160125_143236.jpg"/>
+</rs:rumahsakit>
+<!-- 6 -->
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rsu-sarah">
+    <rs:nama>RSU Sarah</rs:nama>
+    <rs:lokasi>Jalan Baja Raya No.10, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Laboratorium, Instalasi Rawat Jalan, Farmasi, Instalasi Bersalin, Endoskopi, Radiologi, Fisioterapi, Instalasi Bedah, IGD, UGD, NICU, PICU, HCU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20111</rs:kodepos>
+    <rs:phone>(061) 4528044</rs:phone>
+    <rs:gambar rdf:resource="https://lh3.googleusercontent.com/p/AF1QipMzms1NYuOzZzTtXlBEqDvn38v3vxX1Ri9SNYyW=s1600-w960"/>
+</rs:rumahsakit>
+<!-- 7 -->  
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-herna-medan">
+    <rs:nama>Herna</rs:nama>
+    <rs:lokasi>Jalan Mojopahit No.118A, Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Patologi Klinik, Endoskopi, Radiologi, Fisioterapi, Rehabilitasi Medik, IGD, UGD, NICU, PICU, HCU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20153</rs:kodepos>
+    <rs:phone>(061) 4510766 / 4147</rs:phone>
+    <rs:gambar rdf:resource="https://cms.sehatq.com/cdn-cgi/image/f=auto/public/img/hospital_thumb/rs-herna-medan-HCFH00001010.jpg"/>
+</rs:rumahsakit>
+<!-- 8 -->
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-permata-bunda-medan">
+    <rs:nama>Permata Bunda</rs:nama>
+    <rs:lokasi>Jalan Sisingamangaraja No.7, Kotamatsum III, Kec. Medan Kota, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, CT Scan, Endoskopi, Radiologi, Fisioterapi, IGD, UGD, NICU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20215</rs:kodepos>
+    <rs:phone>(061) 7362777</rs:phone>
+    <rs:gambar rdf:resource="https://d1ojs48v3n42tp.cloudfront.net/provider_location_list/478709_30-1-2020_17-0-22.jpg"/>
+</rs:rumahsakit>
+<!-- 9 -->  
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-siti-hajar-medan">
+    <rs:nama>Siti Hajar</rs:nama>
+    <rs:lokasi>Jalan Jamin Ginting No.2, Merdeka, Kec. Medan Baru,  Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Medical Check Up, Farmasi, Radiologi, Fisioterapi, IGD, UGD, PICU, NICU, HCU, Instalasi Gizi, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20154</rs:kodepos>
+    <rs:phone>(061) 8213187</rs:phone>
+    <rs:gambar rdf:resource="https://d1ojs48v3n42tp.cloudfront.net/provider_location_banner/460932_13-5-2020_0-15-26.jpeg"/>
+</rs:rumahsakit>
+<!-- 10 -->
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-hermina-medan">
+    <rs:nama>Hermina</rs:nama>
+    <rs:lokasi>Jalan Asrama, Sei Sikambing C. II, Kec. Medan Helvetia, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Medical Check Up, KTK (Klinik Tumbuh Kembang), Gigi Spesialistik, Instalasi Bersalin, Instalasi Laktasi, IGD, Instalasi Bedah, PICU, NICU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20123</rs:kodepos>
+    <rs:phone>+62 61 80862525</rs:phone>
+    <rs:gambar rdf:resource="https://d1ojs48v3n42tp.cloudfront.net/provider_location_banner/49845_24-3-2020_13-26-38.jpg"/>
+</rs:rumahsakit>
+<!-- 11 -->
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/siloam-hospitals-dhirga-surya">
+    <rs:nama>Siloam Hospitals Dhirga Surya</rs:nama>
+    <rs:lokasi>Jalan Imam Bonjol No.6, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Medical Check Up, Instalasi Laboratorium, Instalasi Radiologi, Instalasi Bersalin, Instalasi Bedah, UGD, PICU, NICU, HCU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20212</rs:kodepos>
+    <rs:phone>(061) 8888 1900</rs:phone>
+    <rs:gambar rdf:resource="https://res.cloudinary.com/dk0z4ums3/image/upload/w_667,h_431,c_fill,dpr_2.0/v1505698227/hospital_image/Dhirga%20Surya%20Medan.jpg.jpg"/>
+</rs:rumahsakit>
+<!-- 12 -->
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-bunda-thamrin-medan">
+    <rs:nama>Bunda Thamrin</rs:nama>
+    <rs:lokasi>Jalan Sei Batang Hari No.28, Babura Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Unit Perawatan Intensif, Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Gizi, Instalasi Radiologi, Instalasi Bersalin, Instalasi Bedah, IGD, PICU, NICU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20119</rs:kodepos>
+    <rs:phone>061-88813615</rs:phone>
+    <rs:gambar rdf:resource="https://d1ojs48v3n42tp.cloudfront.net/provider_location_banner/729247_18-1-2020_11-13-30.jpg"/>
+</rs:rumahsakit>
+ <!-- 13 -->  
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-mitra-sejati">
+    <rs:nama>Mitra Sejati</rs:nama>
+    <rs:lokasi>Jalan Jenderal Besar A.H. Nasution No.7, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Pusat Sterilisasi, Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Gizi, Instalasi Radiologi, Instalasi Bersalin, Instalasi Bedah, Dental Radiology Installation, UGD, IGD, PICU, NICU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20219</rs:kodepos>
+    <rs:phone>(061) 7875967</rs:phone>
+    <rs:gambar rdf:resource="https://lh3.googleusercontent.com/p/AF1QipN81CDEzPi53WdtDZm2wYIC-6mU_JJqUHzPc5SD=s1600-w1000"/>
+</rs:rumahsakit>
+ <!-- 14 -->  
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rsu-vina-estetika">
+    <rs:nama>Vina Estetica</rs:nama>
+    <rs:lokasi>Jalan Iskandar Muda No.119, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Tumbuh Kembang Anak, Dental Radiology Installation, Instalasi Penunjang Diagnostik, Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Radiologi, Instalasi Bersalin, Instalasi Bedah, UGD, IGD, PICU, NICU, HCU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20111</rs:kodepos>
+    <rs:phone>(061) 4521491</rs:phone>
+    <rs:gambar rdf:resource="https://www.cekinfo.com/img/bisnis/p1998ef0501kd1mbg1f54cm41j6s4.jpg"/>
+</rs:rumahsakit>
+<!-- 15 -->  
+<rs:rumahsakit rdf:about="https://rsham.co.id/">
+    <rs:nama>Haji Adam Malik</rs:nama>
+    <rs:lokasi>Jalan Bunga Lau No.17, Kemenangan Tani, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Laboratorium, Transfusi Darah, Kamar Operasi, Rehabilitasi Medik, Instalasi Rawat Inap, Instalasi Rawat Jalan, Kamar Operasi, CT Scan, Farmasi, Instalasi Bedah, UGD, IGD, PICU, NICU, HCU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20136</rs:kodepos>
+    <rs:phone>061-8360051</rs:phone>
+    <rs:gambar rdf:resource="https://www.riauonline.co.id/foto/bank/images2/RSUP-Adam-Malik.jpg"/>
+</rs:rumahsakit>
+<!-- 16 -->  
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-mitra-medika-amplas">
+    <rs:nama>Mitra Medika</rs:nama>
+    <rs:lokasi>Jalan Sisingamangaraja No.11, Harjosari I, Kec. Medan Amplas, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Kebidanan dan Kandungan, Instalasi Bedah Sentral, Instalasi Perawatan Intensif, Instalasi Gizi, Instalasi Maternal Perinatal, UGD, IGD, PICU, NICU, HCU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20148</rs:kodepos>
+    <rs:phone>(061) 7879070</rs:phone>
+    <rs:gambar rdf:resource="https://lh3.googleusercontent.com/proxy/myYNExaMsCk0L0WLWDv-UcZYmfJe_fuAiKoUwqsan4HphvOJoneNDQFj1m9eFdsVxUqQJx07tgjQ97XvwAv2I8Rj3X2o6DV5uxJafCEvYDJz2B33J9iy9V9Qt0s"/>
+</rs:rumahsakit>
+<!-- 17 -->  
+<rs:rumahsakit rdf:about="http://rsudpirngadi.pemkomedan.go.id/">
+    <rs:nama>RSUD Dr. Pirngadi</rs:nama>
+    <rs:lokasi>Jalan Prof. HM. Yamin Sh No.47, Perintis, Kec. Medan Timur, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Poliklinik, Instalasi Perawatan Intensif, CT SCAN, Instalasi Bedah Sentral, Instalasi Radiologi, Instalasi Lab, Instalasi Rehabilitasi Medik, IGD, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20234</rs:kodepos>
+    <rs:phone>(061) 4158701</rs:phone>
+    <rs:gambar rdf:resource="https://rsudpirngadi.pemkomedan.go.id/foto_banner/rsud%20baru.jpg"/>
+</rs:rumahsakit>
+<!-- 18 -->  
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-madani-medan">
+    <rs:nama>Madani</rs:nama>
+    <rs:lokasi>Jalan Arief Rahman Hakim No.168, Sukaramai I, Kec. Medan Area, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Instalasi Bersalin, Instalasi Bedah, Instalasi Laboratorium, Instalasi Radiologi, IGD, Medical Check Up, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20227</rs:kodepos>
+    <rs:phone>(061) 7345911</rs:phone>
+    <rs:gambar rdf:resource="https://d1ojs48v3n42tp.cloudfront.net/provider_location_list/693201_18-1-2020_11-42-21.jpg"/>
+</rs:rumahsakit>
+<!-- 19 -->  
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-advent-medan">
+    <rs:nama>Advent</rs:nama>
+    <rs:lokasi>Jalan Gatot Subroto No.Km 4, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Instalasi Laboratorium, Instalasi Radiologi, Instalasi Laktasi, Instalasi Gizi, Instalasi Rumah Duka, UGD, IGD, PICU, NICU, HCU, Medical Check Up, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20118</rs:kodepos>
+    <rs:phone>(061) 4524875</rs:phone>
+    <rs:gambar rdf:resource="https://res.cloudinary.com/dk0z4ums3/image/upload/w_360,h_240,c_fill,dpr_2.0,f_auto/v1539766648/hospital_image/Foto%201.jpg.jpg"/>
+</rs:rumahsakit>
+<!-- 20 -->  
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rsu-martha-friska">
+    <rs:nama>Martha Friska</rs:nama>
+    <rs:lokasi>Jalan Multatuli No.1, A U R, Kec. Medan Maimun,  Kota Medan, Sumatera Utara, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Instalasi Laboratorium, Instalasi Radiologi, Instalasi Laktasi, Instalasi Gizi, Instalasi Maternal Perinatal, Instalasi Kecantikan, Unit Perawatan Intensif, Instalasi Endoskopi, UGD, IGD, PICU, NICU, HCU, Medical Check Up, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>20212</rs:kodepos>
+    <rs:phone>(061) 4149666</rs:phone>
+    <rs:gambar rdf:resource="https://d1ojs48v3n42tp.cloudfront.net/provider_location_banner/317162_11-5-2020_12-18-22.jpeg"/>
+</rs:rumahsakit>
+    
+<!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // SURABAYA
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-premier-surabaya">
+    <rs:nama>Premier Surabaya</rs:nama>
+    <rs:lokasi>Jalan Nginden Intan Barat No.B, Ngenden Jangkungan, Kec. Sukolilo, Kota Surabaya, Jawa Timur, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Unit Perawatan Intensif, Instalasi Fisioterapi, Instalasi Radiologi, Medical Check Up, UGD, NICU, HCU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>60118</rs:kodepos>
+    <rs:phone>(031) 5993211</rs:phone>
+    <rs:gambar rdf:resource="https://www.ramsaysimedarby.co.id/wp-content/uploads/2019/08/Rumah-Sakit-Premier-Surabaya.jpg"/>
+</rs:rumahsakit> 
+
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-phc-surabaya">
+    <rs:nama>PHC Surabaya</rs:nama>
+    <rs:lokasi>Jalan Prapat Kurung Selatan No.1, Perak Utara, Kec. Pabean Cantian, Kota Surabaya, Jawa Timur, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Instalasi Gizi, Instalasi Bersalin, Instalasi Bedah, Instalasi Radiologi, Medical Check Up, IGD, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>60165</rs:kodepos>
+    <rs:phone>(031) 3294801</rs:phone>
+    <rs:gambar rdf:resource="https://d1ojs48v3n42tp.cloudfront.net/provider_location_banner/518003_28-6-2019_12-44-12.jpg"/>
+</rs:rumahsakit> 
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-bhayangkara-surabaya-h-s-samsoeri-mertojoso">
+    <rs:nama>Bhayangkara Surabaya H S Samsoeri Mertojoso</rs:nama>
+    <rs:lokasi>Jalan Ahmad Yani No.116, Ketintang, Kec. Gayungan, Kota Surabaya, Jawa Timur, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, IGD, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>60231</rs:kodepos>
+    <rs:phone>(031) 8292227</rs:phone>
+    <rs:gambar rdf:resource="https://lh5.googleusercontent.com/p/AF1QipOWxm4N19DaJ5n4VHn5psl17-pG6f2uO24Sik-e=w400-h300-k-no"/>
+</rs:rumahsakit> 
+
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rsia-putri-surabaya">
+    <rs:nama>Putri Surabaya</rs:nama>
+    <rs:lokasi>Jalan Arief Rahman Hakim No.122, Keputih, Kec. Sukolilo, Kota Surabaya, Jawa Timur, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Bersalin, Farmasi, Instalasi Gizi, Instalasi Fisioterapi, Instalasi Radiologi, Instalasi Laboratorium, IGD, NICU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>60117</rs:kodepos>
+    <rs:phone>(031) 5999987</rs:phone>
+    <rs:gambar rdf:resource="https://cms.sehatq.com/cdn-cgi/image/f=auto/public/img/hospital_thumb/rsia-putri-surabaya-HCFH00000933.jpg"/>
+</rs:rumahsakit> 
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rsud-dr-soetomo">
+    <rs:nama>RSUD Dr Soetomo</rs:nama>
+    <rs:lokasi>Jalan Mayjen Prof. Dr. Moestopo No.6-8, Airlangga, Kec. Gubeng, Kota Surabaya, Jawa Timur, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Instalasi Gizi, Instalasi Fisioterapi, Instalasi Laboratorium, IGD, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>60286</rs:kodepos>
+    <rs:phone>(031) 5501078</rs:phone>
+    <rs:gambar rdf:resource="https://rsudrsoetomo.jatimprov.go.id/wp-content/uploads/2019/05/DSC_0114.jpg"/>
+</rs:rumahsakit> 
+    
+<!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // BOGOR
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-bmc-mayapada-hospital">
+    <rs:nama>BMC Mayapada Hospital</rs:nama>
+    <rs:lokasi>Jalan Pajajaran Indah V No. 97, Baranangsiang, Kec. Bogor Timur, Kota Bogor, Jawa Barat, Indonesia</rs:lokasi>
+    <rs:fasilitas>Farmasi, Instalasi Rawat Inap, Instalasi Rawat Jalan, Unit Perawatan Intensif, Instalasi Bedah, Instalasi Endoskopi, Instalasi Laboratorium, Instalasi Fisioterapi, Medical Check Up, Instalasi Radiologi, Ruang Perawatan Anak, UGD, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>16143</rs:kodepos>
+    <rs:phone>(0251) 8307900</rs:phone>
+    <rs:gambar rdf:resource="https://mayapadahospital.com/images/hospital/BMC%20NEW.jpg"/>
+</rs:rumahsakit>
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-azra">
+    <rs:nama>Azra Bogor</rs:nama>
+    <rs:lokasi>Jalan JRaya Pajajaran No.219, RT.02/RW.11, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat, Indonesia</rs:lokasi>
+    <rs:fasilitas>Farmasi, Instalasi Gizi, Ambulans, Instalasi Bedah, Instalasi Rawat Inap, Instalasi Rawat Jalan, Medical Check Up, Instalasi Laboratorium, Instalasi Radiologi, NICU, IGD, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>16153</rs:kodepos>
+    <rs:phone>(0251) 8318456</rs:phone>
+    <rs:gambar rdf:resource="https://static.konsula.com/images/practice/0001002000/0001001096/rumah-sakit-azra.300x225.jpg"/>
+</rs:rumahsakit> 
+
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-mulia-pajajaran">
+    <rs:nama>Mulia Pajajaran</rs:nama>
+    <rs:lokasi>Kelurahan, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat, Indonesia</rs:lokasi>
+    <rs:fasilitas>Unit Perawatan Intensif, Instalasi Gizi, Instalasi Maternal Perinatal, Instalasi Geriatri, Instalasi Kecantikan, Ambulans, Instalasi Bersalin, Instalasi Menyusui, Instalasi Bedah, Perawatan Observasi, Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Penunjang Diagnostik, Instalasi Fisioterapi, Medical Check Up, Instalasi Laboratorium, Instalasi Radiologi, Dental Radiology Installation, Ruang Perawatan Anak, IGD, HCU, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>16153</rs:kodepos>
+    <rs:phone>(0251) 8379898</rs:phone>
+    <rs:gambar rdf:resource="https://www.tms-one.com/assets/media/produk_photo/big/product_71e25098c220dabf7abbd817e5fdcb9b.jpg"/>
+</rs:rumahsakit> 
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-hermina-bogor">
+    <rs:nama>Hermina Bogor</rs:nama>
+    <rs:lokasi>Jalan Ring Road I Kav. 23, 25, 27 Perum Taman Yasmin, RT.08/RW.08, Curugmekar, Kec. Bogor Barat, Kota Bogor, Jawa Barat, Indonesia</rs:lokasi>
+    <rs:fasilitas>Farmasi, Unit Perawatan Intensif, Instalasi Kecantikan, Ambulans, Instalasi Menyusui, Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Laboratorium, Ruang Perawatan Anak, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>16113</rs:kodepos>
+    <rs:phone>(0251) 8382525</rs:phone>
+    <rs:gambar rdf:resource="https://cms.sehatq.com/cdn-cgi/image/f=auto/public/img/hospital_thumb/hermina-bogor-HCFH00000304.jpg"/>
+</rs:rumahsakit> 
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rsia-ummi">
+    <rs:nama>Ummi</rs:nama>
+    <rs:lokasi>Jalan Empang II No.2, RT.04/RW.02, Empang, Kec. Bogor Sel., Kota Bogor, Jawa Barat, Indonesia</rs:lokasi>
+    <rs:fasilitas>Farmasi, Unit Perawatan Intensif, Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Laboratorium, Instalasi Radiologi, NICU, PICU, IGD, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>16132</rs:kodepos>
+    <rs:phone>(0251) 8341600</rs:phone>
+    <rs:gambar rdf:resource="https://rsummi.com/img_teraskreasi/93Building.jpg"/>
+</rs:rumahsakit> 
+
+<!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // YOGYAKARTA
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rsup-dr-sardjito">
+    <rs:nama>Dr. Sardjito</rs:nama>
+    <rs:lokasi>Jalan Kesehatan No.1, Senolowo, Sinduadi, Kec. Mlati, Kabupaten Sleman, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Unit Perawatan Intensif, Instalasi Laboratorium, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>55281</rs:kodepos>
+    <rs:phone>(0274) 631190</rs:phone>
+    <rs:gambar rdf:resource="https://cdn0-production-images-kly.akamaized.net/3mrBd42JZsSbTOTd2RCDV4eybUA=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1474388/original/004496700_1484626501-IMG_20170110_123013.jpg"/>
+</rs:rumahsakit> 
+
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-bethesda-yogyakarta">
+    <rs:nama>Bethesda Yogyakarta</rs:nama>
+    <rs:lokasi>Jalan Jend. Sudirman No.70, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Unit Perawatan Intensif, Instalasi Gizi, Instalasi Laboratorium, Instalasi Radiologi, IGD, NICU, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>55224</rs:kodepos>
+    <rs:phone>(0274) 586688</rs:phone>
+    <rs:gambar rdf:resource="https://d1ojs48v3n42tp.cloudfront.net/provider_location_banner/400217_24-3-2020_9-51-36.jpg"/>
+</rs:rumahsakit> 
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rsud-kota-yogyakarta">
+    <rs:nama>RSUD Kota Yogyakarta</rs:nama>
+    <rs:lokasi>Jalan Ki Ageng Pemanahan No.1, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Instalasi Gizi, Instalasi Fisioterapi, Instalasi Laboratorium, Instalasi Radiologi, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>55162</rs:kodepos>
+    <rs:phone>(0274) 371195</rs:phone>
+    <rs:gambar rdf:resource="https://res.cloudinary.com/dmnh1fqbj/image/upload/c_fill,f_auto,h_200,q_auto,w_325/v1/hospital/RSUD-Wirosaban.jpg"/>
+</rs:rumahsakit> 
+
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-jih-yogyakarta">
+    <rs:nama>RS JIH</rs:nama>
+    <rs:lokasi>Jalan Ring Road Utara No.160, Perumnas Condong Catur, Condongcatur, Kec. Depok, Kabupaten Sleman, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia</rs:lokasi>
+    <rs:fasilitas>Farmasi, Unit Perawatan Intensif, Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Laboratorium, UGD, Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>55283</rs:kodepos>
+    <rs:phone>(0274) 4463535</rs:phone>
+    <rs:gambar rdf:resource="https://www.rs-jih.co.id/images/about/1.jpg"/>
+</rs:rumahsakit> 
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-sakina-idaman">
+    <rs:nama>Sakina Idaman</rs:nama>
+    <rs:lokasi>Jalan Blunyah Gede No.60, Kutu Dukuh, Sinduadi, Kec. Mlati, Kabupaten Sleman, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia</rs:lokasi>
+    <rs:fasilitas>Farmasi, Unit Perawatan Intensif, Instalasi Bedah, Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Fisioterapi, Instalasi Laboratorium, Instalasi Radiologi, UGD, NICU, PICU, IGD, Fasilitas Umum Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>55284</rs:kodepos>
+    <rs:phone>(0274) 8000111</rs:phone>
+    <rs:gambar rdf:resource="https://docplayer.info/docs-images/92/110665267/images/6-2.jpg"/>
+</rs:rumahsakit>
+    
+<!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // JAKARTA
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-medistra">
+    <rs:nama>Medistra</rs:nama>
+    <rs:lokasi>Jalan Gatot Subroto No.Kav 59, RT.1/RW.4, Kuningan Timur, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia</rs:lokasi>
+    <rs:fasilitas>Instalasi Rawat Inap, Instalasi Rawat Jalan, Farmasi, Unit Perawatan Intensif, Instalasi Laboratorium, Instalasi Bersalin, Instalasi Bedah, Instalasi Radiologi, NICU, PICU, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>12950</rs:kodepos>
+    <rs:phone>(021) 5210200</rs:phone>
+</rs:rumahsakit> 
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-premier-jatinegara">
+    <rs:nama>Premier Jatinegara</rs:nama>
+    <rs:lokasi>Jalan Jatinegara Timur No.85-87, RT.10/RW.2, Bali Mester, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta, Indonesia</rs:lokasi>
+    <rs:fasilitas>Farmasi, Ambulans, Instalasi Rawat Jalan, Medical Check Up, Instalasi Laboratorium, Instalasi Radiologi, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>13310</rs:kodepos>
+    <rs:phone>(021) 1500908</rs:phone>
+    <rs:gambar rdf:resource="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/6840BA89B9FA4C1A9FFB9B949156E2C2/foto-gedung-rspj.jpg"/>
+</rs:rumahsakit> 
+
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-pondok-indah-puri-indah">
+    <rs:nama>Pondok Indah - Puri Indah</rs:nama>
+    <rs:lokasi>Jalan Puri Indah Raya S-2, RT.1/RW.2, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta, Indonesia</rs:lokasi>
+    <rs:fasilitas>Farmasi, Unit Perawatan Intensif, Instalasi Rawat Inap, Instalasi Rawat Jalan, Instalasi Laktasi, Instalasi Bersalin, Instalasi Bedah, Instalasi Endoskopi, Medical Check Up, Instalasi Laboratorium, Instalasi Radiologi UGD, NICU, PICU Ambulans, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>11610</rs:kodepos>
+    <rs:phone>(021) 25695200</rs:phone>
+    <rs:gambar rdf:resource="https://cms.sehatq.com/cdn-cgi/image/f=auto/public/img/hospital_thumb/rumah-sakit-pondok-indah-puri-indah-jakarta-barat-HCFH00000034.jpg"/>
+</rs:rumahsakit> 
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-pusat-pertamina">
+    <rs:nama>RS Pusat Pertamina</rs:nama>
+    <rs:lokasi>Jalan Kyai Maja No.43, RT.4/RW.8, Gunung, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia</rs:lokasi>
+    <rs:fasilitas>Farmasi, Unit Perawatan Intensif, Instalasi Gizi, Instalasi Rawat Inap, Instalasi Rawat Jalan, Medical Check Up, Instalasi Laboratorium, Instalasi Radiologi, IGD, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>12120</rs:kodepos>
+    <rs:phone>(021) 7219000</rs:phone>
+    <rs:gambar rdf:resource="https://lh3.googleusercontent.com/proxy/Q5C-EE44r1hgYUfyygFV0My1_lJwBOQs6THZDE1xR8ZZMr9WfjyR42qJM5Q23LHHIbgFrxVqrP95XvVVGuF0uQeAmZ0C09zcw8yg"/>
+</rs:rumahsakit> 
+    
+<rs:rumahsakit rdf:about="https://www.halodoc.com/rumah-sakit/nama/rs-royal-taruma">
+    <rs:nama>Royal Taruma</rs:nama>
+    <rs:lokasi>Jalan Daan Mogot No.34, Tj. Duren Utara, Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta, Indonesia</rs:lokasi>
+    <rs:fasilitas>Farmasi, Unit Perawatan Intensif, Instalasi Gizi, Instalasi Rawat Inap, Instalasi Rawat Jalan, Medical Check Up, Instalasi Laboratorium, Instalasi Radiologi, IGD, Fasilitas Umum</rs:fasilitas>
+    <rs:kodepos>11470</rs:kodepos>
+    <rs:phone>(021) 56958338</rs:phone>
+    <rs:gambar rdf:resource="https://rsroyaltaruma.com/photos/home/gedungsunset.jpg"/>
+</rs:rumahsakit> 
+    
+    
+</rdf:RDF>
